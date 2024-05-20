@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level01.unity
     guid: f2a467ba458655547a5a6c38c8ac55da
+  - enabled: 1
+    path: Assets/Scenes/imprimerie.unity
+    guid: a3f70e20ca7b5db4aa17a4a60852ba6a
+  - enabled: 1
+    path: Assets/Scenes/usine.unity
+    guid: 3e1ce1e586111864d97467237a5bce32
   m_configObjects: {}
